@@ -1,0 +1,14 @@
+-------------------------------Backend---------------------------------------
+index.js
+routes
+controllers
+data
+models
+.env (mongodb connect)
+.gitignore (ignore node_modules and .env)
+edit packege.json (add start and dev scripts , add  "type": "module",)
+edit index.js (add 05)
+
+
+-----------------------------Frontend----------------------------------------
+jsconfig.json (configaration)

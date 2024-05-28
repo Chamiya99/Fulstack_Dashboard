@@ -1,0 +1,26 @@
+--------------------------------Backend--------------------------------------------
+mkder server
+cd server
+init pkg.json - npm init -y
+Installation - npm i express body-parser cors dotenv helmet morgan mongoose nodemon
+
+express - framework for API
+body-parser  - pasing data comming in 
+cors - cross origine resource sharing
+dotenv - environment variables
+helmet - protect API
+morgan - loging on API Calls
+mongoose - handling mongo DB calls
+nodemon - live server reload
+
+---------------------------------Forntend------------------------------------------
+npm create-react-app client
+
+npm i react-redux @reduxjs/toolkit react-datepicker react-router-dom @mui/material @emotion/react  @emotion/styled  @mui/icons-material  @mui/x-data-grid @nivo/core @nivo/bar @nivo/geo @nivo/pie
+
+react-redux - state mgmt
+@reduxjs/toolkit - redux toolkit
+react-datepicker -  datepicker range
+react-router-dom - routing
+@mui/material @emotion/react  @emotion/styled  @mui/icons-material  @mui/x-data-grid- MUI
+@nivo/core @nivo/bar @nivo/geo @nivo/pie - nivo (for charts)
